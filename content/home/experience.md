@@ -38,9 +38,8 @@ experience:
 
   - title: Research Fellow in AI for Maritime Futures
     company: University of Southampton, UK
-    company_url: soton.ac.uk
+    company_url: https://soton.ac.uk
     company_logo: uos_logo
-    company_logo: org-x
     location: Southampton
     date_start: '2021-11-16'
     date_end: ''
