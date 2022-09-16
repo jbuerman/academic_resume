@@ -5,12 +5,13 @@ title: "Aamas Fair Allocation of Resources With Uncertain Availability"
 event: International Conference on Autonomous Agents and Multiagent Systems
 event_url: https://aamas2020.conference.auckland.ac.nz/
 location: Online
-summary: This year's AAMAS conference was hosted online on the [underline.io](https://underline.io) platform. My [talk](https://underline.io/lecture/270-fair-allocation-of-resources-with-uncertain-availability) presenting the work and the results of the accepted paper ["Fair Allocation of Resources With Uncertain Availability"](../../publication/buermann-2020-aamas-fair-allocation-under-uncertainty) is available on this website. The paper was joint work with [Enrico H. Gerding](https://www.southampton.ac.uk/~eg/) and [Baharak Rastegari](https://sites.google.com/view/baharrastegari).
+summary:
+abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2022-09-16T18:36:37+01:00
-date_end: 2022-09-16T18:36:37+01:00
+# date: 2022-09-16T18:36:37+01:00
+# date_end: 2022-09-16T18:36:37+01:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
@@ -59,3 +60,5 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+This year's AAMAS conference was hosted online on the [underline.io](https://underline.io) platform. My [talk](https://underline.io/lecture/270-fair-allocation-of-resources-with-uncertain-availability) presenting the work and the results of the accepted paper ["Fair Allocation of Resources With Uncertain Availability"](../../publication/buermann-2020-aamas-fair-allocation-under-uncertainty) is available on this website. The paper was joint work with [Enrico H. Gerding](https://www.southampton.ac.uk/~eg/) and [Baharak Rastegari](https://sites.google.com/view/baharrastegari).
