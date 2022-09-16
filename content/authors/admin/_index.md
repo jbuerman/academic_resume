@@ -45,7 +45,7 @@ organizations:
 
 education:
   courses:
-    - course: Research Fellow in AI for Maritime Futures
+  - course: Research Fellow in AI for Maritime Futures
     institution: University of Southampton, UK
     year: Ongoing
   - course: PhD in Computer Science
