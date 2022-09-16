@@ -22,7 +22,7 @@ social:
     link: '#contact'  # For a direct email link, use "mailto:test@example.org".
   - icon: university
     icon_pack: fas
-    link: https://www.ecs.soton.ac.uk/people/jb2u17
+    link: https://www.southampton.ac.uk/people/5yk8j2/mr-jan-buermann
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0002-4981-6137
