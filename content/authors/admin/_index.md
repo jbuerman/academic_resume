@@ -8,40 +8,40 @@ avatar_filename: avatar.jpg
 bio: I am interested in research into efficient algorithms for the usage of resources under uncertainty.
 
 interests:
-- Multi-Agent Systems
-- Social Choice
-- Complexity Theory
-- Approximation Algorithms
-- Uncertainty
-- Efficient resource usage, Net Zero
-- $\max c^Tx$ s.t. $Ax \leq b$
+  - Multi-Agent Systems
+  - Social Choice
+  - Complexity Theory
+  - Approximation Algorithms
+  - Uncertainty
+  - Efficient resource usage, Net Zero
+  - $\max c^Tx$ s.t. $Ax \leq b$
 
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: university
-  icon_pack: fas
-  link: https://www.ecs.soton.ac.uk/people/jb2u17
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0002-4981-6137
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Jan_Buermann3
-- icon: dblp
-  icon_pack: ai
-  link: https://dblp.uni-trier.de/pers/hd/b/B=uuml=rmann:Jan
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=-tG11EMAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/jbuerman
+  - icon: envelope
+    icon_pack: fas
+    link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  - icon: university
+    icon_pack: fas
+    link: https://www.ecs.soton.ac.uk/people/jb2u17
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-4981-6137
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Jan_Buermann3
+  - icon: dblp
+    icon_pack: ai
+    link: https://dblp.uni-trier.de/pers/hd/b/B=uuml=rmann:Jan
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.co.uk/citations?user=-tG11EMAAAAJ&hl=en
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/jbuerman
 
 organizations:
   - name: University of Southampton
-  url: "https://www.soton.ac.uk"
+    url: "https://www.soton.ac.uk"
 
 education:
   courses:
