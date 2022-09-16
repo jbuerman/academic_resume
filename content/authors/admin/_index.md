@@ -45,12 +45,9 @@ organizations:
 
 education:
   courses:
-  - course: Research Fellow in AI for Maritime Futures
-    institution: University of Southampton, UK
-    year: Ongoing
   - course: PhD in Computer Science
     institution: University of Southampton, UK
-    year: Ongoing
+    year: 2021
   - course: M.Sc. in Computer Science
     institution: University of Paderborn, Germany
     year: 2017
